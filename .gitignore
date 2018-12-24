@@ -1,0 +1,6 @@
+#ignore executables
+
+
+#ignore logs
+*.log
+logs
